@@ -1,0 +1,9 @@
+{
+"inputBank" : "#inputbank",
+"inputCard" : "#inputCard",
+"buttonCalcular" : "#calculate_btn > .btn-primary",
+"tableCuotas" : "#installmentsTable",
+"calculatorCuotas" : "#open-installments-modal",
+"buttonExitCalculator" : ".pdp-payment-modal > .modal-inner-wrap > .modal-header > .action-close",
+"buttonVolver" : ".item.store > .store"
+}

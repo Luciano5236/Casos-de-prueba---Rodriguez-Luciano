@@ -1,0 +1,6 @@
+{
+    "inputSearch" : "#search",
+    "searchButton" : "#search_mini_form > div.actions > button",
+    "filterButton" : ".block-subtitle",
+    "productItems" : ".products > ol > .product-item"
+}
